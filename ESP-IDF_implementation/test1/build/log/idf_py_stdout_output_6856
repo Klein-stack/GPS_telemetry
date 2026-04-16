@@ -1,0 +1,1 @@
+Command: cmake -G Ninja -B /home/sarang/GPS_telemetry/ESP-IDF_implementation/test1/build -DPYTHON_DEPS_CHECKED=1 -DPYTHON=/home/sarang/.espressif/tools/python/v6.0/venv/bin/python3 -DESP_PLATFORM=1 -DSDKCONFIG='/home/sarang/GPS_telemetry/ESP-IDF_implementation/test1/sdkconfig' -DCCACHE_ENABLE=False /home/sarang/GPS_telemetry/ESP-IDF_implementation/test1

@@ -39,10 +39,10 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/sarang/test1/build/esp-idf/mbedtls/mbedtls/tf-psa-crypto/include/cmake_install.cmake")
-  include("/home/sarang/test1/build/esp-idf/mbedtls/mbedtls/tf-psa-crypto/core/cmake_install.cmake")
-  include("/home/sarang/test1/build/esp-idf/mbedtls/mbedtls/tf-psa-crypto/drivers/cmake_install.cmake")
-  include("/home/sarang/test1/build/esp-idf/mbedtls/mbedtls/tf-psa-crypto/pkgconfig/cmake_install.cmake")
+  include("/home/sarang/GPS_telemetry/ESP-IDF_implementation/test1/build/esp-idf/mbedtls/mbedtls/tf-psa-crypto/include/cmake_install.cmake")
+  include("/home/sarang/GPS_telemetry/ESP-IDF_implementation/test1/build/esp-idf/mbedtls/mbedtls/tf-psa-crypto/core/cmake_install.cmake")
+  include("/home/sarang/GPS_telemetry/ESP-IDF_implementation/test1/build/esp-idf/mbedtls/mbedtls/tf-psa-crypto/drivers/cmake_install.cmake")
+  include("/home/sarang/GPS_telemetry/ESP-IDF_implementation/test1/build/esp-idf/mbedtls/mbedtls/tf-psa-crypto/pkgconfig/cmake_install.cmake")
 
 endif()
 

@@ -1,0 +1,17 @@
+Command: cmake -G Ninja -B /home/sarang/GPS_telemetry/ESP-IDF_implementation/test1/build -DPYTHON_DEPS_CHECKED=1 -DPYTHON=/home/sarang/.espressif/tools/python/v6.0/venv/bin/python3 -DESP_PLATFORM=1 -DSDKCONFIG='/home/sarang/GPS_telemetry/ESP-IDF_implementation/test1/sdkconfig' -DCCACHE_ENABLE=False /home/sarang/GPS_telemetry/ESP-IDF_implementation/test1
+Configuration Report               
+ ───────────────────────────────── 
+   Parser Version: 1               
+   Verbosity: default              
+   Defaults policy: sdkconfig      
+   Status: Finished successfully   
+                                   
+ ───────────────────────────────── 
+CMake Warning (dev) at /usr/share/cmake-3.25/Modules/GNUInstallDirs.cmake:243 (message):
+  Unable to determine default CMAKE_INSTALL_LIBDIR directory because no
+  target architecture is known.  Please enable at least one language before
+  including GNUInstallDirs.
+Call Stack (most recent call first):
+  /home/sarang/.espressif/v6.0/esp-idf/components/mbedtls/mbedtls/CMakeLists.txt:59 (include)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+

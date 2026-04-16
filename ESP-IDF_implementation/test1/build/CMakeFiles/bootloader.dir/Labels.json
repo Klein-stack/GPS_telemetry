@@ -2,34 +2,34 @@
 	"sources" : 
 	[
 		{
-			"file" : "/home/sarang/test1/build/CMakeFiles/bootloader"
+			"file" : "/home/sarang/GPS_telemetry/ESP-IDF_implementation/test1/build/CMakeFiles/bootloader"
 		},
 		{
-			"file" : "/home/sarang/test1/build/CMakeFiles/bootloader.rule"
+			"file" : "/home/sarang/GPS_telemetry/ESP-IDF_implementation/test1/build/CMakeFiles/bootloader.rule"
 		},
 		{
-			"file" : "/home/sarang/test1/build/CMakeFiles/bootloader-complete.rule"
+			"file" : "/home/sarang/GPS_telemetry/ESP-IDF_implementation/test1/build/CMakeFiles/bootloader-complete.rule"
 		},
 		{
-			"file" : "/home/sarang/test1/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+			"file" : "/home/sarang/GPS_telemetry/ESP-IDF_implementation/test1/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
 		},
 		{
-			"file" : "/home/sarang/test1/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+			"file" : "/home/sarang/GPS_telemetry/ESP-IDF_implementation/test1/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
 		},
 		{
-			"file" : "/home/sarang/test1/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+			"file" : "/home/sarang/GPS_telemetry/ESP-IDF_implementation/test1/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
 		},
 		{
-			"file" : "/home/sarang/test1/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+			"file" : "/home/sarang/GPS_telemetry/ESP-IDF_implementation/test1/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
 		},
 		{
-			"file" : "/home/sarang/test1/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+			"file" : "/home/sarang/GPS_telemetry/ESP-IDF_implementation/test1/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
 		},
 		{
-			"file" : "/home/sarang/test1/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+			"file" : "/home/sarang/GPS_telemetry/ESP-IDF_implementation/test1/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
 		},
 		{
-			"file" : "/home/sarang/test1/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+			"file" : "/home/sarang/GPS_telemetry/ESP-IDF_implementation/test1/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
 		}
 	],
 	"target" : 

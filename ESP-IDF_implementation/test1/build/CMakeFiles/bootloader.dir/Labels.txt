@@ -1,13 +1,13 @@
 # Target labels
  bootloader
 # Source files and their labels
-/home/sarang/test1/build/CMakeFiles/bootloader
-/home/sarang/test1/build/CMakeFiles/bootloader.rule
-/home/sarang/test1/build/CMakeFiles/bootloader-complete.rule
-/home/sarang/test1/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
-/home/sarang/test1/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
-/home/sarang/test1/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
-/home/sarang/test1/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
-/home/sarang/test1/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
-/home/sarang/test1/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
-/home/sarang/test1/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/home/sarang/GPS_telemetry/ESP-IDF_implementation/test1/build/CMakeFiles/bootloader
+/home/sarang/GPS_telemetry/ESP-IDF_implementation/test1/build/CMakeFiles/bootloader.rule
+/home/sarang/GPS_telemetry/ESP-IDF_implementation/test1/build/CMakeFiles/bootloader-complete.rule
+/home/sarang/GPS_telemetry/ESP-IDF_implementation/test1/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/sarang/GPS_telemetry/ESP-IDF_implementation/test1/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/sarang/GPS_telemetry/ESP-IDF_implementation/test1/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/sarang/GPS_telemetry/ESP-IDF_implementation/test1/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/sarang/GPS_telemetry/ESP-IDF_implementation/test1/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/sarang/GPS_telemetry/ESP-IDF_implementation/test1/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/sarang/GPS_telemetry/ESP-IDF_implementation/test1/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

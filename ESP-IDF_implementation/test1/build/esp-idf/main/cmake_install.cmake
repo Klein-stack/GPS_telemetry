@@ -1,4 +1,4 @@
-# Install script for directory: /home/sarang/test1/main
+# Install script for directory: /home/sarang/GPS_telemetry/ESP-IDF_implementation/test1/main
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
